@@ -3,3 +3,6 @@ thi is for playig aroundn, to show the ckeckhout and diff ....
 
 
 show diff can look across versions in history.
+
+
+type anything   lalalalala
