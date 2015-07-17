@@ -1,2 +1,5 @@
 thi is for playig aroundn, to show the ckeckhout and diff ....
 ,,d,ldlld0
+
+
+show diff can look across versions in history.
